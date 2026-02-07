@@ -1,8 +1,11 @@
 # Petr - Der Projektfinder
 
-Ein System Prompt für die Projektarbeit mit LLMs in der Schule.
 
-![Petr Logo](https://petr.eklassenzimmer.de/wp-content/uploads/2026/02/petr_Logo.svg)
+
+![Petr Logo](https://petr.eklassenzimmer.de/wp-content/uploads/2026/02/petr_Logo.svg =250x)
+
+
+Ein System Prompt für die Projektarbeit mit LLMs in der Schule.
 
 Petr hat seine Website auf [petr.eklassenzimmer.de](https://petr.eklassenzimmer.de). Hier finden sich auch weiterführende Informationen und Inhalte.
 
