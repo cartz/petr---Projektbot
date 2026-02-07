@@ -1,10 +1,8 @@
 # Petr - Der Projektfinder
 
 
-
-![Petr Logo](https://petr.eklassenzimmer.de/wp-content/uploads/2026/02/petr_Logo.svg =250x)
-
 <img src="https://petr.eklassenzimmer.de/wp-content/uploads/2026/02/petr_Logo.svg" width="300">
+
 
 Ein System Prompt für die Projektarbeit mit LLMs in der Schule.
 
